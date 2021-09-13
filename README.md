@@ -1,4 +1,4 @@
-# BattleRealmsModEditor
+# Battle Realms Mod Editor
 Battle Realms Mod Editor
 
 
