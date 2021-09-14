@@ -6,5 +6,4 @@ Battle Realms Mod Editor (Powered by SITUVN)
 - Battle Realms (GOG Version)
 - Battle Realms Zen Edition (Steam)
 
-# Coming Soon..
-
+# 🔺 Project Coming Soon... 🔺
