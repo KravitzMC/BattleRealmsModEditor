@@ -1,6 +1,6 @@
 # Battle Realms Mod Editor
 
-[![License: CC BY-NC-ND 4.0](https://raw.githubusercontent.com/KravitzMC/BattleRealmsMapPacks/main/byncnd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: CC BY-NC-ND 4.0](https://raw.githubusercontent.com/KravitzMC/BattleRealmsModEditor/main/09-CC-%E2%80%93-BY-NC-SA.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Battle Realms Mod Editor (Powered by SITUVN)
 
